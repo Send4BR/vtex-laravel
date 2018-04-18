@@ -1,0 +1,15 @@
+{
+    "name": "send4/vtex",
+    "description": "Vtex integration",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Rodolfo Milanez",
+            "email": "rodolfo@send4.com.br"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    }
+}
